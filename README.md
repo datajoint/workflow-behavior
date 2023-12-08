@@ -1,4 +1,5 @@
 # DataJoint Workflow - DeepLabCut
+> ⚠️ This repository is no longer maintained. The notebooks, environment, and tests in this repository have been integrated within [datajoint/element-deeplabcut](https://github.com/datajoint/element-deeplabcut).
 
 The DataJoint Workflow for DeepLabCut combines multiple DataJoint Elements for
 markerless pose estimation with [DeepLabCut](https://www.deeplabcut.org/). DataJoint
